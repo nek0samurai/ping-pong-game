@@ -1,4 +1,4 @@
-# ping-pong-game
+# <a href="https://nek0samurai.github.io/ping-pong-game.github.io/">ping-pong-game</a> 
 Пинг понг игра.
  Выполненная на Canvas.
  
